@@ -1,3 +1,4 @@
 build/
 dist/
-netutils.egg-info
+netutil.egg-info
+.pypirc

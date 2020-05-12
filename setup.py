@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="netutils",
-    version="0.0.6",
+    name="netutil",
+    version="0.0.7",
     author="Clayton Errington",
     author_email="me@claytonerrington.com",
     description="Simplified way to get networking port status",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/cjerrington/netutils",
     packages=setuptools.find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
     classifiers=[
         "Programming Language :: Python :: 3",

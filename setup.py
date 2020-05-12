@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="netutils",
-    version="0.0.4",
+    version="0.0.6",
     author="Clayton Errington",
     author_email="me@claytonerrington.com",
     description="Simplified way to get networking port status",

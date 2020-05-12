@@ -26,8 +26,8 @@ True
 Check out the tests\main.py for more examples.
 
 For extra help I've added in variables to find the hostname and local IP address. 
-- To get hostname: netutils.host_name
-- To get Local IP: netutils.host_ip
+- To get hostname: netutil.host_name
+- To get Local IP: netutil.host_ip
 
 # Links
 - [PyPi](https://pypi.org/project/netutil/)
